@@ -3106,10 +3106,12 @@ input, select, textarea {
 
 			.image.left {
 				margin: 0 1.5em 1em 0;
+                object-fit: cover;
 			}
 
 			.image.right {
 				margin: 0 0 1em 1.5em;
+                object-fit: cover;
 			}
 
 			.image.main {
