@@ -2264,14 +2264,15 @@ input, select, textarea {
 			-ms-flex-direction: row;
 			flex-direction: row;
 			margin-left: 0;
+            padding: 2em 0 1em 1.125em;
 		}
 
 			ul.actions.stacked li {
-				padding: 0 0 0 0;
+				padding: 2em 0 0 0;
 			}
 
 				ul.actions.stacked li:first-child {
-					padding-top: 0;
+					padding-top:2em;
 				}
 
 		ul.actions.fit {
@@ -2328,7 +2329,7 @@ input, select, textarea {
 					}
 
 					ul.actions:not(.fixed) li:first-child {
-						padding-top: 0;
+						padding-top: 2em;
 					}
 
 					ul.actions:not(.fixed) li input[type="submit"],
@@ -2817,7 +2818,7 @@ input, select, textarea {
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
-		padding: 4em 0 2em 0;
+		padding: 6em 0 2em 0;
 	}
 
 		#footer .copyright {
