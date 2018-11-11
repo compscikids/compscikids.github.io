@@ -23,10 +23,6 @@
 	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
 	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
 	<script type="text/javascript" src="engine1/jquery.js"></script>
-	<!-- End WOWSlider.com HEAD section -->
-	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
-	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
-	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
 	<!-- End WOWSlider.com HEAD section --></head>
 	<body class="is-preload">
 
@@ -79,32 +75,7 @@
 									<p>After completing the course rigor of high school Computer Science, we realized how much we would have benefited from exposure to the subject in previous years and decided to start an organization to do just that. Held at Conant High School, CompSci Kids allows kids of all ages to have a background in the field prior to delving in further in high school. The hope is to allow these students to be able to learn computer science at an accelerated rate in high school and allow those who have natural skills in computer science to further develop earlier on. Through the use of online programs, fun activities, and exciting projects for older students, CompSci Kids provides an enticing venue for students to learn about computer science.</p>
 	
 									<p>Each session will begin by picking up the students from door #1 of Conant High School and walking them to the their designated areas. We will then go through our specially designed curriculum making sure each student not only receives as much individual attention as needed but also has a blast learning. Our student to trained high school volunteer ratio will always be around 3:1 ensuring no child falls behind or feels left out. When class is over we will walk the children back to the doors to be picked up by their parents. The last class will be a celebration where the kids can show their parents what they have learned.</p>
-                                <!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
-                                <div id="wowslider-container0">
-                                    <div class="ws_images"><ul>
-                                        <li><img src="data0/images/img_6409.jpg" alt="IMG_6409" title="IMG_6409" id="wows0_0"/></li>
-                                        <li><img src="data0/images/img_6411.jpg" alt="IMG_6411" title="IMG_6411" id="wows0_1"/></li>
-                                        <li><img src="data0/images/img_6412.jpg" alt="IMG_6412" title="IMG_6412" id="wows0_2"/></li>
-                                        <li><img src="data0/images/img_6413.jpg" alt="IMG_6413" title="IMG_6413" id="wows0_3"/></li>
-                                        <li><img src="data0/images/img_6414.jpg" alt="IMG_6414" title="IMG_6414" id="wows0_4"/></li>
-                                        <li><img src="data0/images/img_6415.jpg" alt="IMG_6415" title="IMG_6415" id="wows0_5"/></li>
-                                        <li><img src="data0/images/img_6416.jpg" alt="IMG_6416" title="IMG_6416" id="wows0_6"/></li>
-                                        <li><img src="data0/images/img_6417.jpg" alt="IMG_6417" title="IMG_6417" id="wows0_7"/></li>
-                                        <li><img src="data0/images/img_6419.jpg" alt="IMG_6419" title="IMG_6419" id="wows0_8"/></li>
-                                        <li><img src="data0/images/img_6422.jpg" alt="IMG_6422" title="IMG_6422" id="wows0_9"/></li>
-                                        <li><img src="data0/images/img_6423.jpg" alt="IMG_6423" title="IMG_6423" id="wows0_10"/></li>
-                                        <li><img src="data0/images/img_6424.jpg" alt="IMG_6424" title="IMG_6424" id="wows0_11"/></li>
-                                        <li><img src="data0/images/img_6426.jpg" alt="IMG_6426" title="IMG_6426" id="wows0_12"/></li>
-                                        <li><img src="data0/images/img_6427.jpg" alt="IMG_6427" title="IMG_6427" id="wows0_13"/></li>
-                                        <li><a href="http://wowslider.net"><img src="data0/images/img_6429.jpg" alt="html5 slider" title="IMG_6429" id="wows0_14"/></a></li>
-                                        <li><img src="data0/images/img_6430.jpg" alt="IMG_6430" title="IMG_6430" id="wows0_15"/></li>
-                                    </ul></div>
-                                    <div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">css image slider</a> by WOWSlider.com v8.8</div>
-                                    <div class="ws_shadow"></div>
-                                </div>
-                                <script type="text/javascript" src="engine0/wowslider.js"></script>
-                                <script type="text/javascript" src="engine0/script.js"></script>
-                                <!-- End WOWSlider.com BODY section --></div>
+									</div>
 
 							</section>
 						<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
@@ -195,6 +166,7 @@
 										<h5 align="right"><b>Nikita Basu </b><br>Board Member</h5>
 										<p><span class="image right"><img src="images/rsz_nikita.jpg" alt="" /></span>Nikita Basu is a senior at Conant High School. She’s currently pursuing the computer science track at her school and has three years of experience in a computer science class. Nikita hopes to major in computer science in the future. Her interests include competing on the math team, the varsity debate team, and the tennis team. Outside of school, Nikita enjoys reading and playing the guitar.</p>
                                     </section>
+					</div>
 
 				<!-- Footer -->
 					<section id="footer">
@@ -206,7 +178,6 @@
 					</section>
 
 			</div>
-
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
