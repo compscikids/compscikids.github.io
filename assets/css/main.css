@@ -2336,7 +2336,7 @@ input, select, textarea {
 					-webkit-flex-shrink: 1;
 					-ms-flex-shrink: 1;
 					flex-shrink: 1;
-					padding: 0 0 0 0;
+					padding: 2em 0 0 0;
 					text-align: center;
 					width: 100%;
 				}
@@ -2346,7 +2346,7 @@ input, select, textarea {
 					}
 
 					ul.actions:not(.fixed) li:first-child {
-						padding-top: 2em;
+						padding-top: 0em;
 					}
 
 					ul.actions:not(.fixed) li input[type="submit"],
@@ -3282,7 +3282,7 @@ input, select, textarea {
 						}
 
 				ul.actions.small li {
-					padding: 0.5625em 0 0 0;
+					padding: 0.5625em 0em 0em 0em;
 				}
 
 					ul.actions.small li:first-child {
@@ -3300,7 +3300,7 @@ input, select, textarea {
 			input[type="reset"],
 			input[type="button"],
 			.button {
-				padding: 0;
+				padding-top: 0;
 			}
 	}
 
